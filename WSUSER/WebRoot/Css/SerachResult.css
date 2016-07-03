@@ -1,0 +1,124 @@
+#powerdiv{
+	text-align: center;
+	margin-top:30px;
+	position: relative;
+	max-width:500px;
+	margin:30px auto;
+}
+#power{
+	width:100%;
+}
+#powerdiv b{
+	position: absolute;
+	font-style: normal;
+	color:rgb(112,108,107);
+	font-size: 12px;
+}
+#powernum{
+	top:24.3%;
+}
+#name{
+	top:29.55%;
+}
+#wx{
+	top:33.645%;
+}
+#type{
+	top:38.385%;
+	left:32.3%;
+}
+#level{
+	top:47.35%;
+	left:30.3%;
+}
+#agstartyear{
+	top:53%;
+	left:27.4%;
+}
+#agstartmonth{
+	top:53%;
+	left:40.5%;
+}
+#agstartday{
+	top:53%;
+	left:48.3%;
+}
+#agendyear{
+	top:53%;
+	left:57.1%;
+}
+#agendmonth{
+	top:53%;
+	left:69.5%;
+}
+#agendday{
+	top:53%;
+	left:76.5%;
+}
+@media screen and (min-width:320px){
+	#powerdiv b{
+		font-size:12px;
+	}
+	.fontstyle{
+		font-size:10px !important;
+	}
+}
+@media screen and (min-width:360px){
+	#powerdiv b{
+		font-size:13px;
+	}
+	.fontstyle{
+		font-size:11px !important;
+	}
+}
+@media screen and (min-width:375px){
+	#powerdiv b{
+		font-size:14px;
+	}
+}
+@media screen and (min-width:384px){
+	#powerdiv b{
+		font-size:15px;
+	}
+}
+@media screen and (min-width:400px){
+	#powerdiv b{
+		font-size:16px;
+	}
+}
+@media screen and (min-width:414px){
+	#powerdiv b{
+		font-size:16px;
+	}
+}
+@media screen and (min-width:424px){
+	#powerdiv b{
+		font-size:16px;
+	}
+	.fontstyle{
+		font-size:14px !important;
+	}
+}
+@media screen and (min-width:480px){
+	#powerdiv b{
+		font-size:16px;
+	}
+	.fontstyle{
+		font-size:14px !important;
+	}
+}
+@media screen and (min-width:540px){
+	#powerdiv b{
+		font-size:18px;
+	}
+}
+@media screen and (min-width:720px){
+	#powerdiv b{
+		font-size:21px;
+	}
+}
+@media screen and (min-width:750px){
+	#powerdiv b{
+		font-size:16px;
+	}
+}

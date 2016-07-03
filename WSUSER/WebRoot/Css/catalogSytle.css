@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:rgb(54,50,64);
+}
+#catalog{	
+	padding-top:100px;
+	width:45%;
+	margin:auto;
+	text-align:center;
+}
+#catalog a{
+	color:#fff;
+	display:block;
+	
+	
+	background-color:rgb(27,127,233);
+	margin:20px 0px;
+	padding:10px;
+	font-size:16px;
+	border-radius:8px;
+}

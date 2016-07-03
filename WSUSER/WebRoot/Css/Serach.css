@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:rgb(54,50,64);
+	color:#fff;
+}
+#serach{
+	max-width:400px;
+	width:80%;
+	margin:100px auto;
+	padding:0px 30px;
+}
+#wxnum{
+	width:100%;
+	padding:5px 10px;
+}
+label{
+	font-size:16px;
+}
+#wxnum{
+	box-flex:1;-webkit-box-flex:1;-moz-box-flex:1;-ms-box-flex:1;
+    flex:1;
+	background-color:rgba(0,0,0,0);
+	border:none;
+	border-bottom:1px solid #999;
+	color:#fff;
+	outline:none;
+}
+.inputdiv{
+	display:box;display:-moz-box;display:-webkit-box;display:-ms-box;
+    display:flex;display:-webkit-flex;
+}
+#tip{
+	height:40px;
+	color:red;
+}
+#submit{
+	display:block;
+	width:100%;
+	background:rgb(27,127,233);
+	border:1px solid rgb(27,127,233);
+	border-radius:5px;
+	padding:5px 0px;
+	color:#fff;
+	letter-spacing:10px;
+	text-align: center;
+	-webkit-appearance:none;
+}
+	

@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:rgb(54,50,64);
+}
+
+#achievement{
+	max-width:400px;
+	width:80%;
+	margin:auto auto;
+	color:#fff;
+	
+	margin-top:100px;
+}
+#title{
+	font-size:24px;
+	text-align:center;
+}
+#achbody,#achTeambody,#contact{
+	margin:20px 0px;
+	border:1px solid rgb(87,143,140);
+	border-radius:5px;
+	padding:0 10px 5px 10px;
+}
+#contact p{
+	padding-top:5px;
+	text-align:center;
+}
+#achbody p,#achTeambody p{
+	padding:5px 0 0 0;
+}
+#achbody p span{
+	float:right;
+}
+#achTeambody p span{
+	float:right;
+}
