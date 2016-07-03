@@ -2,8 +2,8 @@
     <wb-module deploy-name="WSUSER">
         <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/base"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/config"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/base"/>
         <property name="context-root" value="WSUSER"/>
         <property name="java-output-path" value="/WSUSER/WebRoot/WEB-INF/classes"/>
     </wb-module>

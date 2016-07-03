@@ -47,12 +47,12 @@
 		<link>
 			<name>base</name>
 			<type>2</type>
-			<location>D:/mywork/WSBASE/src</location>
+			<location>E:/EclipseGit/WSBASE/WSBASE/src</location>
 		</link>
 		<link>
 			<name>config</name>
 			<type>2</type>
-			<location>D:/mywork/WSBASE/config</location>
+			<location>E:/EclipseGit/WSBASE/WSBASE/config</location>
 		</link>
 	</linkedResources>
 </projectDescription>
